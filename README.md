@@ -1,1 +1,1 @@
-GIT Tutorial: Juan Pelaez
+GIT Tutorial: Juan Pelaez UChicago Student Resource Guide
